@@ -1,2 +1,3 @@
 # hello-world
-My firsy project at the Github。
+My firsy project at the Github.
+My first commit.
